@@ -1,0 +1,5 @@
+D:\PIU\Proiect-PIU\Proiect-PIU\obj\Debug\Proiect-PIU.csproj.AssemblyReference.cache
+D:\PIU\Proiect-PIU\Proiect-PIU\obj\Debug\Proiect-PIU.csproj.SuggestedBindingRedirects.cache
+D:\PIU\Proiect-PIU\Proiect-PIU\obj\Debug\Proiect_PIU.Properties.Resources.resources
+D:\PIU\Proiect-PIU\Proiect-PIU\obj\Debug\Proiect-PIU.csproj.GenerateResource.cache
+D:\PIU\Proiect-PIU\Proiect-PIU\obj\Debug\Proiect-PIU.csproj.CoreCompileInputs.cache
